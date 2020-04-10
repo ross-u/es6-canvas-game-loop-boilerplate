@@ -1,0 +1,17 @@
+body {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.canvas-container {
+  height: 100%;
+  margin: 0 20px;
+}
+
+.game {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
